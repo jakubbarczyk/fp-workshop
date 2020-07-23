@@ -1,0 +1,13 @@
+{
+  "name": "fp-workshop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
+  "author": "Jakub Barczyk",
+  "license": "MIT"
+}
